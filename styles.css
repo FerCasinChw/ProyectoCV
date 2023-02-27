@@ -1,0 +1,25 @@
+/**
+esto es un comentario en CSS
+*/
+
+body{
+    background-color: #212529;
+    color: #ffffff;
+}
+
+#cuerpo, #info, #conocim, #curs, #anteced, #educac{
+    text-align: justify;
+    padding: 50px 50px 50px 50px;
+}
+
+#encabezado , #botonera{
+    text-align: center;
+}
+
+th{
+    color: #198754;
+}
+
+.sinverde{
+    color: #ffffff;
+}

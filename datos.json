@@ -1,0 +1,76 @@
+{
+    "primernombre":"Fernando",
+    "segundonombre":"Agustín",
+    "apellido":"Casinelli",
+    "nacimiento":{
+        "dia":9,
+        "mes":2,
+        "año":1976
+        },
+    "domicilio":{
+        "calle":"Martinez Avelino",
+        "altura":"685",
+        "piso":"",
+        "depto":"",
+        "ciudad":"Tandil",
+        "provincia":"Buenos Aires"
+        },
+    "telefono":"(0249) 15 - 464-1039",
+    "correoelectronico":"fernando@casinelli.com",
+    "titulo":"Licenciado en Administracón",
+    "educacion":[
+        {
+            "titulonivel":"Licenciado en Administración",
+            "anioegreso":"2007",
+            "institucion":"Universidad de Buenos Aires"
+        },
+        {
+            "titulonivel":"Bachiller con Orientación Económica y Contable",
+            "anioegreso":"1993",
+            "institucion":"Colegio del Salvador - CABA"
+        }
+        ],
+    "conocimientos":[
+        {"dato":"Muy buen manejo de PC"},
+        {"dato":"Excel avanzado"},
+        {"dato":"Escritura de Macros en Excel (Visual Basic for Aplication)"},
+        {"dato":"Nociones Fundamentales de Programación: UML, MVC"},
+        {"dato":"HTML"},
+        {"dato":"Programación PHP"},
+        {"dato":"SQL Base de Datos"},
+        {"dato":"Sistema de control de versiones: GIT"}
+        ],
+    "cursos":[
+        {"curso:":"2001 - Tecnico Universitario en Seguridad Social - Universidad de Buenos Aires"},
+        {"curso:":"2004 - Impuesto a las Ganancias 4ta. Categoría - Arizmendi Capacitación - Capital Federal"}
+        ],
+    "antecedenteslaborales":[
+        {
+            "empresa":"ANSES - Administración Nacional de Seguridad Social",
+            "ingreso":"Dic. 2008",
+            "egreso":"",
+            "puesto":"Operador Atención Telefónica / Computista Liquidación Beneficios Previsionales / Operador Atención Integral",
+            "area": "UDAT Tandil / Mesa de Cómputos Tandil / UDAI Tandil",
+            "tareas":"Asesoramiento y Gestión de Trámites en General. Liquidación Beneficios Previsionales. Atención al Público. ",
+            "descripcion":""
+        },
+        {
+            "empresa":"Arauca Bit A.F.J.P. S.A. (empresa del grupo OSDE)",
+            "ingreso":"Ago. 1994",
+            "egreso":"Dic. 2008",
+            "puesto":"Coordinador y Supervisor Pago Prestaciones",
+            "area":"Dpto. de Pagos - Subgerencia de Prestaciones ",
+            "tareas":"",
+            "descripcion":"Personal a cargo: 12 personas. Mejora de Procesos. Solución de Anomalías. Participación y evaluación de proyectos de desarrollo de sistemas. Simplificar actividades, reducir tiempos. Desarrollar e implementar nuevos sistemas aplicativos. Referente de Capacitación. Controles. Conciliaciones. Estadísticas. Liquidación de Haberes Previsionales. Impuesto a las Ganancias."
+        },
+        {
+            "empresa":"Programador Free Lance",
+            "ingreso":"Nov. 2007",
+            "egreso":"",
+            "puesto":"Analista Funcional - Programador PHP - Administración Base de Datos - Desarrollo Macros Excel",
+            "area":"",
+            "tareas":"Programador PHP, Administración Base de Datos, Entrevista Clientes, Análisis de Necesidades. Confección Casos de Uso, Diagramas UML, MySQL, Desarrollo de Macros en Excel, GIT",
+            "descripcion":""
+        }
+        ]
+}
